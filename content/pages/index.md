@@ -296,33 +296,26 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Sam Waterproofing
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Jasa Waterproofing Bandung
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Kami Mengerjakan Jasa Waterproofing Pada Dak Cor, Dinding Luar, Atap
+      Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
-      - label: Get started
-        url: /
+      - label: Informasi Lengkap Harga Jasa
+        url: 'https://wa.me/6282134358787'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'Awas, Jangan Salah Pilih Jasa Waterproofing!'
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
