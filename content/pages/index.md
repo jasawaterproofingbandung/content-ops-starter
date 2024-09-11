@@ -305,7 +305,7 @@ sections:
       Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
       - label: Informasi Lengkap Harga Jasa
-        url: /
+        url: 'https://wa.me/6282134358787'
         icon: arrowRight
         iconPosition: right
         style: secondary
