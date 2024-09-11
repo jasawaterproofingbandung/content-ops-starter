@@ -226,7 +226,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: jasa waterproofing berpengalaman
       color: text-primary
       styles:
         self:
