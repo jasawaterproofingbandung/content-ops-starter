@@ -16,18 +16,18 @@ sections:
       menawarkan layanan pemasangan dan penjualan produk waterproofing
       berkualitas tinggi.
     actions:
-      - label: Get started
+      - label: Informasi Lengkap Harga Jasa
         altText: ''
-        url: /
+        url: 'https://wa.me/6282134358787'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Sam Waterproofing
         altText: ''
-        url: /
+        url: 'https://samwaterproofing.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
