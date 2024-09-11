@@ -56,7 +56,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Berikut
+      text: Berikut Layanan Kami
       color: text-dark
       styles:
         self:
