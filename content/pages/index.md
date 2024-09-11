@@ -56,21 +56,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Berikut Layanan Kami
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Jasa Waterproofing Yang Kami Kerjakan
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Waterproofing Dinding Luar
+        subtitle: Gedung Rumah Ruko
+        text: >
+          Jangan Anggap Sepele Atau Dibiarkan Jika Dinding Anda Retak Rambut
+          Karena Jika Dibiarkan Air Akan Masuk Mengakibatkan [Rembes dan
+          Bocor](https://samwaterproofing.com/) Biasa Merusak Struktur Bangunan
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -89,18 +89,19 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Desain tanpa judul (11).jpg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Waterproofing Dak Cor
+        subtitle: Dak Rembes Bocor
+        text: >
+          [Dak beton](https://samwaterproofing.com/) merupakan elemen struktural
+          yang sering digunakan pada bangunan bertingkat, baik itu untuk atap
+          maupun lantai. Namun, dak beton rentan terhadap kerusakan akibat
+          penetrasi air.
         image:
-          url: /images/icon2.svg
+          url: /images/Desain tanpa judul (40).jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -152,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Sam waterproofing indonesia
       color: text-primary
       styles:
         self:
