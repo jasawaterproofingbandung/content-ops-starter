@@ -342,10 +342,11 @@ sections:
           Bandung Saat Ini Sudah Berpengalaman Puluhan Tahun”
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Memilih jasa waterproofing yang tepat adalah kunci untuk mengatasi
+          masalah kebocoran secara efektif. Pastikan Anda memilih penyedia
+          layanan yang berpengalaman dan terpercaya seperti Sam Waterproofing,
+          pemimpin nomor satu di Indonesia.
         image:
           url: /images/Konten Instagram Kutipan Minimalis Krem Abu-Abu (29).jpg
           altText: Maria Walters
