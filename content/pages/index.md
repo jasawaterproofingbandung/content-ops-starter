@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Sam Waterproofing
-        altText: ''
-        url: 'https://samwaterproofing.com/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/jasa kontraktor waterproofing berpengalaman.jpg
       altText: Unblock your team boost your time to production preview
