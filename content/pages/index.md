@@ -121,10 +121,10 @@ sections:
         type: FeaturedItem
       - title: Waterproofing Atap & Kubah
         subtitle: Rooftop Gedung dll
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          [Waterproofing atap](https://samwaterproofing.com/) merupakan langkah
+          penting dalam menjaga integritas struktural dan kenyamanan suatu
+          bangunan. Atap yang tidak kedap air dapat menyebabkan berbagai masalah
         image:
           url: /images/21.jpg
           altText: Featured icon three
