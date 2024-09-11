@@ -299,7 +299,7 @@ sections:
       text: Sam Waterproofing
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Jasa Waterproofing Bandung
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
