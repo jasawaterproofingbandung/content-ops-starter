@@ -341,7 +341,7 @@ sections:
           “Sam Waterproofing Kontraktor Jasa Waterproofing Terbaik Dikota
           Bandung Saat Ini Sudah Berpengalaman Puluhan Tahun”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
