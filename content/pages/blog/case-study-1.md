@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Waterproofing Masjid
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Snapshot_98.jpg
   altText: Case study 1
   styles:
     self:
