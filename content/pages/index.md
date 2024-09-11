@@ -208,7 +208,7 @@ sections:
       dll. Berikut Ini Video Hasil Waterproofing Yang Kami Kerjakan.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=MS98IKoZ370'
       controls: false
       aspectRatio: '16:9'
       styles:
