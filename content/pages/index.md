@@ -304,7 +304,7 @@ sections:
       Kami Mengerjakan Jasa Waterproofing Pada Dak Cor, Dinding Luar, Atap
       Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
-      - label: Get started
+      - label: Informasi Lengkap Harga Jasa
         url: /
         icon: arrowRight
         iconPosition: right
