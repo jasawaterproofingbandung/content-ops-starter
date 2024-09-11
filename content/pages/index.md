@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Sam waterproofing indonesia
       color: text-primary
       styles:
         self:
