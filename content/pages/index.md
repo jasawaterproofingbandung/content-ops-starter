@@ -143,7 +143,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Informasi Harga Jasa
         altText: ''
         url: /
         showIcon: false
