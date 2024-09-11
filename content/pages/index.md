@@ -338,8 +338,8 @@ sections:
     subtitle: 'Awas, Jangan Salah Pilih Jasa Waterproofing!'
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Sam Waterproofing Kontraktor Jasa Waterproofing Terbaik Dikota
+          Bandung Saat Ini Sudah Berpengalaman Puluhan Tahun”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
