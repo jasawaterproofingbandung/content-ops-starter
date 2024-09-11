@@ -200,11 +200,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Testimoni Video Waterproofing
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      [Jasa Waterproofing Bandung](https://samwaterproofing.com/) Sam
+      Waterproofing Menggunakan Asphalt Emulsion (Aspal Cair) Adalah Solusi Yang
+      Terbaik Saat Ini Untuk Mengatasi Kebocoran Serta Rembes Pada Bangunan
+      Dinding Tembok Luar, Atap Genteng, Kubah Masjid, Dak Beton, Rooftop Gedung
+      dll. Berikut Ini Video Hasil Waterproofing Yang Kami Kerjakan.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
