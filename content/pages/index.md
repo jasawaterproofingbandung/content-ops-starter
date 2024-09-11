@@ -145,7 +145,7 @@ sections:
     actions:
       - label: Informasi Harga Jasa
         altText: ''
-        url: /
+        url: 'https://wa.me/6282134358787'
         showIcon: false
         icon: arrowRight
         iconPosition: right
