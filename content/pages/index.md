@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Info Harga WA 0821 3435 8787
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      [Sam Waterproofing](https://samwaterproofing.com/) adalah pemimpin nomor
+      satu dalam solusi waterproofing di Indonesia.Dengan pengalaman
+      bertahun-tahun, kami ahli dalam menangani kebocoran pada dak beton,
+      dinding tembok luar, kubah beton, atap rumah, dan banyak lagi. Kami
+      menawarkan layanan pemasangan dan penjualan produk waterproofing
+      berkualitas tinggi.
     actions:
       - label: Get started
         altText: ''
