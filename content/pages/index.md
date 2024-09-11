@@ -95,10 +95,11 @@ sections:
               borderRadius: x-large
       - title: Waterproofing Dak Cor
         subtitle: Dak Rembes Bocor
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          [Dak beton](https://samwaterproofing.com/) merupakan elemen struktural
+          yang sering digunakan pada bangunan bertingkat, baik itu untuk atap
+          maupun lantai. Namun, dak beton rentan terhadap kerusakan akibat
+          penetrasi air.
         image:
           url: /images/Desain tanpa judul (40).jpg
           altText: Featured icon two
