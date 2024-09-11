@@ -16,7 +16,7 @@ sections:
       menawarkan layanan pemasangan dan penjualan produk waterproofing
       berkualitas tinggi.
     actions:
-      - label: Get started
+      - label: Informasi Lengkap Harga Jasa
         altText: ''
         url: /
         showIcon: false
