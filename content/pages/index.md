@@ -67,10 +67,10 @@ sections:
       - type: FeaturedItem
         title: Waterproofing Dinding Luar
         subtitle: Gedung Rumah Ruko
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Jangan Anggap Sepele Atau Dibiarkan Jika Dinding Anda Retak Rambut
+          Karena Jika Dibiarkan Air Akan Masuk Mengakibatkan [Rembes dan
+          Bocor](https://samwaterproofing.com/) Biasa Merusak Struktur Bangunan
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
