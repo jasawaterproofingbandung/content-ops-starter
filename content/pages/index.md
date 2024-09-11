@@ -7,7 +7,7 @@ sections:
       text: Kontraktor Jasa Waterproofing Bandung
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Info Harga WA 0821 3435 8787
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
