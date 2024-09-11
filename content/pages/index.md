@@ -249,7 +249,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       Beroperasi Sudan Bertahun-tahun  : Pengalaman kami berbicara untuk
       kualitas layanan kami.
