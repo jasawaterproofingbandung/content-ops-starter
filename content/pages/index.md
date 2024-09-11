@@ -268,7 +268,7 @@ sections:
       dan dapatkan solusi efektif untuk masalah kebocoran Anda!
     actions: []
     media:
-      title: Title of the video
+      title: Kontraktor Jasa Waterproofing Bandung
       url: 'https://www.youtube.com/watch?v=14oM5qHYBCs&t=2s'
       autoplay: true
       loop: true
