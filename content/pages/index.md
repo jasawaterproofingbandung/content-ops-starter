@@ -94,7 +94,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Waterproofing Dak Cor
-        subtitle: The Job Stuff
+        subtitle: Dak Rembes Bocor
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
