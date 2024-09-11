@@ -225,7 +225,7 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
       label: jasa waterproofing berpengalaman
       color: text-primary
