@@ -193,21 +193,22 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Sam Waterproofing Indonesia
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Testimoni Video Waterproofing
+    text: >
+      [Jasa Waterproofing Bandung](https://samwaterproofing.com/) Sam
+      Waterproofing Menggunakan Asphalt Emulsion (Aspal Cair) Adalah Solusi Yang
+      Terbaik Saat Ini Untuk Mengatasi Kebocoran Serta Rembes Pada Bangunan
+      Dinding Tembok Luar, Atap Genteng, Kubah Masjid, Dak Beton, Rooftop Gedung
+      dll. Berikut Ini Video Hasil Waterproofing Yang Kami Kerjakan.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: Jasa Waterproofing Bandung
+      url: 'https://www.youtube.com/watch?v=MS98IKoZ370'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -224,9 +225,9 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
-      label: Key Benefits
+      label: jasa waterproofing berpengalaman
       color: text-primary
       styles:
         self:
@@ -242,22 +243,33 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Kenapa Pilih Sam Waterproofing
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Beroperasi Sudan Bertahun-tahun  : Pengalaman kami berbicara untuk
+      kualitas layanan kami.
+
+      Solusi Komprehensif : Dari penilaian hingga perbaikan, kami menangani
+      semua kebutuhan waterproofing Anda.
+
+      Komitmen pada Kepuasan Pelanggan : Kepuasan Anda adalah prioritas utama
+      kami.
+
+      Jangan biarkan kebocoran merusak kenyamanan rumah Anda.
+
+
+      [Hubungi SAM Waterproofing Sekarang](https://wa.me/6282134358787)
+
+      dan dapatkan solusi efektif untuk masalah kebocoran Anda!
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: Kontraktor Jasa Waterproofing Bandung
+      url: 'https://www.youtube.com/watch?v=14oM5qHYBCs&t=2s'
       autoplay: true
       loop: true
       muted: true
