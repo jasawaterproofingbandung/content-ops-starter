@@ -143,9 +143,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Informasi Harga Jasa
         altText: ''
-        url: /
+        url: 'https://wa.me/6282134358787'
         showIcon: false
         icon: arrowRight
         iconPosition: right
