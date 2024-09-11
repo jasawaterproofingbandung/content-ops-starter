@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Jasa Waterproofing Yang Kami Kerjakan
     items:
       - type: FeaturedItem
         title: 500k
