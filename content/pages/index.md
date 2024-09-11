@@ -311,7 +311,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/Snapshot_60.jpg
+      url: /images/Brown and Beige Minimalist Real Estate Presentation.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
