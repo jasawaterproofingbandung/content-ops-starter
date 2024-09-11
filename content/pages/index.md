@@ -296,7 +296,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Sam Waterproofing
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
