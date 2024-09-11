@@ -301,8 +301,8 @@ sections:
       type: TitleBlock
     subtitle: Jasa Waterproofing Bandung
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Kami Mengerjakan Jasa Waterproofing Pada Dak Cor, Dinding Luar, Atap
+      Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
       - label: Get started
         url: /
