@@ -4,14 +4,17 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Kontraktor Jasa Waterproofing Bandung
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Info Harga WA 0821 3435 8787
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      [Sam Waterproofing](https://samwaterproofing.com/) adalah pemimpin nomor
+      satu dalam solusi waterproofing di Indonesia.Dengan pengalaman
+      bertahun-tahun, kami ahli dalam menangani kebocoran pada dak beton,
+      dinding tembok luar, kubah beton, atap rumah, dan banyak lagi. Kami
+      menawarkan layanan pemasangan dan penjualan produk waterproofing
+      berkualitas tinggi.
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +35,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/jasa kontraktor waterproofing berpengalaman.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Jasa waterproofing bandung terbaik
       color: text-primary
       type: Badge
     elementId: ''
@@ -743,36 +746,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
